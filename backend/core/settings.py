@@ -41,6 +41,9 @@ INSTALLED_APPS = [
     # custom apps
     'blog',
     'blog_api',
+
+    # built in
+    'rest_framework'
 ]
 
 MIDDLEWARE = [
